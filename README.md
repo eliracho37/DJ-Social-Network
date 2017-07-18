@@ -8,3 +8,10 @@ Collected & visualised the temporal & social development of the intra-chartings 
 All research was completed in Spring 2016 at the Oxford Internet Institute, University of Oxford, England, UK as course work towards M.Sc. in Computational Social Science. The data itself originates from ResidentAdvisor.net. The technology used to access/scrape the site was Import.io software. The visualization and analysis were performed using Gephi. The full dataset contains 11.333 DJs as nodes and 93.515 chartings as edges. 
 
 N.B. The original CSV files uploaded into Gephi are not provided here but are available on request. 
+
+Included files:
+1. 3x .PNGs showcasing visualization in Gephi
+2. Dataset in .gephi  
+3. Final submitted paper/analysis
+
+All work belongs to me; however, happy to share the dataset and my findings. 
