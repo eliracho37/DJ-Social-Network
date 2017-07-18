@@ -5,6 +5,6 @@ Collected & visualised the temporal & social development of the intra-chartings 
 
 This repository is designed to share the data and code concerning the project. 
 
-All research was completed in Spring 2016 at the Oxford Internet Institute, University of Oxford, England, UK as course work towards M.Sc. in Computational Social Science. The data itself originates from ResidentAdvisor.net. The technology used to access/scrape the site was Import.io software. The visualization and analysis was performed using Gephi. 
+All research was completed in Spring 2016 at the Oxford Internet Institute, University of Oxford, England, UK as course work towards M.Sc. in Computational Social Science. The data itself originates from ResidentAdvisor.net. The technology used to access/scrape the site was Import.io software. The visualization and analysis were performed using Gephi. 
 
 The original CSV files are not provided here but are available on request. 
