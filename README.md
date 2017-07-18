@@ -13,4 +13,4 @@ Included files:
 2. Dataset in .gephi  
 3. Final submitted paper/analysis
 
-N.B. The original CSV files uploaded into Gephi are not provided here but are available on request. 
+N.B. The original csv/graphml files uploaded into Gephi are not provided here but are available on request. 
