@@ -14,4 +14,3 @@ Included files:
 2. Dataset in .gephi  
 3. Final submitted paper/analysis
 
-All work belongs to me; however, happy to share the dataset and my findings. 
